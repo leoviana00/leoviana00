@@ -30,15 +30,15 @@ Aluno do 8 período do cuso de Sistemas de Informação na <a href="http://sou.u
 <br/>
   <br/>
   
-- 🔭 Atualmente estou trabalhando em ...
+### 🔭 Atualmente estou trabalhando em ...
 
-### FERRAMENTAS CICD
+- FERRAMENTAS CICD
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></a></code>
 <br/>
   <br/>
   
-### FERRAMENTAS PROVISIONAMENTO E CONFIGURAÇÃO
+- FERRAMENTAS PROVISIONAMENTO E CONFIGURAÇÃO
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></a></code>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a></code>
@@ -46,7 +46,7 @@ Aluno do 8 período do cuso de Sistemas de Informação na <a href="http://sou.u
 <br/>
   <br/>
   
-### FERRAMENTAS MONITORAMENTO
+- FERRAMENTAS MONITORAMENTO
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg"></a></code>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg"></a></code>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-ar21.svg"></a></code>
@@ -56,7 +56,7 @@ Aluno do 8 período do cuso de Sistemas de Informação na <a href="http://sou.u
 <br/>
   <br/>
   
-### CLOUD
+- CLOUD
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/linode/linode-ar21.svg"></a></code>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
 <br/>
