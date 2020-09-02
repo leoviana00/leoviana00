@@ -59,7 +59,6 @@ Aluno do 8 período do cuso de Sistemas de Informação na <a href="http://sou.u
 - **Shell Scripting**
 - **Kubernetes**
 <br/>
-  <br/>
   
 ### CERTIFICAÇÕES
 - *Itil Fundation V3 - Exins*
@@ -68,7 +67,6 @@ Aluno do 8 período do cuso de Sistemas de Informação na <a href="http://sou.u
 - *Scrum Fundation Professional Certificate (SFPC) - CertiProf*
 - *DevOps Essential Professional Certificate (DEPC) - CertiProf*
 <br/>
-  <br/>
 
 ### GITHUB STATS
 <p align="center">
