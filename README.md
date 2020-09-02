@@ -30,13 +30,14 @@ Aluno do 8 período do cuso de Sistemas de Informação na <a href="http://sou.u
 <br/>
   <br/>
   
+- 🔭 Atualmente estou trabalhando em ...
+
 ### FERRAMENTAS CICD
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></a></code>
 <br/>
   <br/>
-
-
+  
 ### FERRAMENTAS PROVISIONAMENTO E CONFIGURAÇÃO
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></a></code>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
@@ -44,7 +45,7 @@ Aluno do 8 período do cuso de Sistemas de Informação na <a href="http://sou.u
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></a></code>
 <br/>
   <br/>
-
+  
 ### FERRAMENTAS MONITORAMENTO
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg"></a></code>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg"></a></code>
