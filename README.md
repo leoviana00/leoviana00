@@ -50,15 +50,19 @@ Aluno do 8 período do cuso de Sistemas de Informação na <a href="http://sou.u
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg"></a></code>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg"></a></code>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-ar21.svg"></a></code>
-<code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></a></code>
-<code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-ar21.svg"></a></code>
-<code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg"></a></code>
+
 <br/>
   <br/>
   
 ### CLOUD
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/linode/linode-ar21.svg"></a></code>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
+<br/>
+  <br/>
+  
+### VISUALIZAÇÃO DE DADOS
+<code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg"></a></code>
+<code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></a></code>
 <br/>
   <br/>
   
