@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Olá Mundo!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
 
 Aluno do 8 período do cuso de Sistemas de Informação na <a href="http://sou.undb.edu.br/"><b>UNDB</b></a>.  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> 
-Em experiências passadas, eu participei de vários projetos que foram importantes para minha carreira. Como gerenciamento, fluxo e processos de serviços e projetos de cloud com a AWS. Atualmente estou atuando como analista DevOps e pretendo me aprofundar cada vez mais nessa área.
+Em experiências passadas, eu participei de vários projetos que foram importantes para minha carreira. Como gerenciamento, fluxo, processos de serviços e projetos de cloud com a AWS. Atualmente estou atuando como analista DevOps e pretendo me aprofundar cada vez mais nessa área.
+Moro em São Luis - MA, tenho 2 filhos, um casal. Em minhas horas vagas gosto de ler, assistir animes, ouvir música e passear com a família.
+Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 
 <br/>
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
