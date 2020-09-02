@@ -20,15 +20,6 @@ Aluno do 8 período do cuso de Sistemas de Informação na <a href="http://sou.u
 
 <br/>
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
-
-### CERTIFICAÇÕES
-- *Itil Fundation V3 - Exins*
-- *Cloud Fundation - Exin*
-- *ISO 20K Bridge - Exin*
-- *Scrum Fundation Professional Certificate (SFPC) - CertiProf*
-- *DevOps Essential Professional Certificate (DEPC) - CertiProf*
-<br/>
-  <br/>
   
 ### 🔭 Atualmente estou trabalhando em ...
 
@@ -67,7 +58,15 @@ Aluno do 8 período do cuso de Sistemas de Informação na <a href="http://sou.u
 ## 🌱 Atualmente estou aprendendo ...
 - **Shell Scripting**
 - **Kubernetes**
-
+<br/>
+  <br/>
+  
+### CERTIFICAÇÕES
+- *Itil Fundation V3 - Exins*
+- *Cloud Fundation - Exin*
+- *ISO 20K Bridge - Exin*
+- *Scrum Fundation Professional Certificate (SFPC) - CertiProf*
+- *DevOps Essential Professional Certificate (DEPC) - CertiProf*
 <br/>
   <br/>
 
