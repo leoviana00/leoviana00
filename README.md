@@ -86,7 +86,7 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 
 ## Github Stats ...
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=leoviana00&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=leoviana00&&show_icons=true&theme=radical"  Github Stats">
 </p>  
 
 ## 📫 Como me encontrar: ...
