@@ -72,17 +72,16 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 - **Shell Scripting**   
 - **Kubernetes**
 
-  
-### CERTIFICAÇÕES
-- *Itil Fundation V3 - Exins*
-- *Cloud Fundation - Exin*
-- *ISO 20K Bridge - Exin*
-- *Scrum Fundation Professional Certificate (SFPC) - CertiProf*
-- *DevOps Essential Professional Certificate (DEPC) - CertiProf*
-- *Endpoint Security Associate - KASPERSKY*
-- *NS1 Network Security Associate - FORTINET*
-- *NS2 Network Security Associate - FORTINET*
-- *NS3 Network Security Associate - FORTINET*
+## ⚡ Minhas certificações ...
+- **Itil Fundation V3 - Exins**
+- **Cloud Fundation - Exin**
+- **ISO 20K Bridge - Exin**
+- **Scrum Fundation Professional Certificate (SFPC) - CertiProf**
+- **DevOps Essential Professional Certificate (DEPC) - CertiProf**
+- **Endpoint Security Associate - KASPERSKY**
+- **NS1 Network Security Associate - FORTINET**
+- **NS2 Network Security Associate - FORTINET**
+- **NS3 Network Security Associate - FORTINET**
 <br/>
 
 ### GITHUB STATS
