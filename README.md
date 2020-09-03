@@ -89,6 +89,7 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=leoviana00&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
 </p>  
 
+## 📫 Como me encontrar: ...
 <p align="center">
  <a href="https://www.linkedin.com/in/leoviana00/" target="blank">
   <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
