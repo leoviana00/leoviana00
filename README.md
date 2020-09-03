@@ -30,6 +30,8 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></a></code>
 <br/>
+  <br/>
+    <br/>
   
 - **Provisionamento e configuração**
 <br/>
@@ -39,6 +41,7 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></a></code>
 <br/>
   <br/>
+    <br/>
   
 - **Monitoramento**
 <br/>
