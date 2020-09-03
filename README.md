@@ -50,6 +50,7 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-ar21.svg"></a></code>
 <br/>
   <br/>
+    <br/>
   
 - **Cloud**
 <br/>
@@ -57,12 +58,14 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
 <br/>
   <br/>
+    <br/>
   
 - **Relatórios**
 <br/>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></a></code>
 <br/>
   <br/>
+    <br/>
   
 ## 🌱 Atualmente estou aprendendo ...
 - **Shell Scripting**
