@@ -73,7 +73,7 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 - **Kubernetes**
 
 ## ⚡ Minhas certificações ...
-- **Itil Fundation V3 - Exins**
+- **Itil Fundation V3 - Exin**
 - **Cloud Fundation - Exin**
 - **ISO 20K Bridge - Exin**
 - **Scrum Fundation Professional Certificate (SFPC) - CertiProf**
