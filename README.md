@@ -32,7 +32,8 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 <br/>
   <br/>
   
-### FERRAMENTAS PROVISIONAMENTO E CONFIGURAÇÃO
+- **Provisionamento e configuração**
+<br/>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></a></code>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a></code>
@@ -40,20 +41,23 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 <br/>
   <br/>
   
-### FERRAMENTAS MONITORAMENTO
+- **Monitoramento**
+<br/>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg"></a></code>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg"></a></code>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-ar21.svg"></a></code>
 <br/>
   <br/>
   
-### CLOUD
+- **Cloud**
+<br/>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/linode/linode-ar21.svg"></a></code>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
 <br/>
   <br/>
   
-### RELATÓRIOS
+- **Relatórios**
+<br/>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></a></code>
 <br/>
   <br/>
