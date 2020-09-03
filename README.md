@@ -74,6 +74,7 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 <br/>
   <br/>
     <br/>
+    
 - **Kubernetes**
 <br/>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a></code>
