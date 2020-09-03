@@ -25,7 +25,7 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 <br/>
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
   
-### 🔭 Atualmente estou trabalhando em ...
+## 🔭 Atualmente estou trabalhando em ...
 - **CICD**
 <br/>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
