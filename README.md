@@ -69,8 +69,17 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
   
 ## 🌱 Atualmente estou aprendendo ...
 - **Shell Scripting**
+<br/>
+<code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></a></code>
+<br/>
+  <br/>
+    <br/>
 - **Kubernetes**
 <br/>
+<code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a></code>
+<br/>
+  <br/>
+    <br/>
   
 ### CERTIFICAÇÕES
 - *Itil Fundation V3 - Exins*
