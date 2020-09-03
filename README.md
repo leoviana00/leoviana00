@@ -69,6 +69,10 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 - *ISO 20K Bridge - Exin*
 - *Scrum Fundation Professional Certificate (SFPC) - CertiProf*
 - *DevOps Essential Professional Certificate (DEPC) - CertiProf*
+- *Endpoint Security Associate - KASPERSKY*
+- *NS1 Network Security Associate - FORTINET*
+- *NS2 Network Security Associate - FORTINET*
+- *NS3 Network Security Associate - FORTINET*
 <br/>
 
 ### GITHUB STATS
