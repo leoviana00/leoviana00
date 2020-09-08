@@ -30,6 +30,8 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 <br/>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 <code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></a></code>
+<code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></a></code>
+
 <br/>
   <br/>
     <br/>
