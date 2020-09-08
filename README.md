@@ -94,8 +94,7 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
  <a href="https://www.linkedin.com/in/leoviana00/" target="blank">
   <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
-  
-  <p align="center">
+ 
  <a href="https://t.me/leoviana00" target="blank">
   <img align="center" alt="Pramod's Telegram" width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" /> &nbsp; &nbsp;
  </a>
