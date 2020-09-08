@@ -96,6 +96,13 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
  </a>
   <br/>
   <br/>
+  
+  <p align="center">
+ <a href="https://t.me/leoviana00" target="blank">
+  <img align="center" alt="Pramod's Telegram" width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" /> &nbsp; &nbsp;
+ </a>
+  <br/>
+  <br/>
 
  <br/>
   Obrigado 😁<br/>
