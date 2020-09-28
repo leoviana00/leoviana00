@@ -71,6 +71,7 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 ## 🌱 Atualmente estou aprendendo ...
 - **Shell Scripting**   
 - **Kubernetes**
+- **Node Js**
 
 ## ⚡ Minhas certificações ...
 - **Itil Fundation V3 - Exin**
