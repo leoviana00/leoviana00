@@ -73,6 +73,7 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 - **Kubernetes**
 - **JavaScript**
 - **Node Js**
+- **Java**
 
 ## ⚡ Minhas certificações ...
 - **Itil Fundation V3 - Exin**
