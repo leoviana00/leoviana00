@@ -23,12 +23,7 @@ Moro em São Luis - MA, tenho 2 filhos, um casal. Em minhas horas vagas gosto de
 Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 
 <br/>
-<<<<<<< HEAD
-
 <img align="right" alt="GIF" src="https://github.com/leoviana00/leoviana00/blob/master/code.gif?raw=true" width="500" height="320" />
-=======
-   <img align="right" alt="GIF" src="https://github.com/leoviana00/leoviana00/tree/master/imagens/code.gif?raw=true" width="500" height="320" />
->>>>>>> ed114494180a0f18f3c467711073dc44d73f9531
 <!--
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
  --> 
