@@ -96,6 +96,7 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=leoviana00&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
 </p>  
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoviana00&hide=TeX&layout=compact)
 
 
