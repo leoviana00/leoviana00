@@ -23,6 +23,7 @@ Moro em São Luis - MA, tenho 2 filhos, um casal. Em minhas horas vagas gosto de
 Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 
 <br/>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
   
 ## 🔭 Atualmente estou trabalhando em ...
@@ -92,16 +93,7 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=leoviana00&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
 </p>  
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-Vue.js         4 hrs 17 mins   ████████▒░░░░░░░░░░░░░░░░   33.69 % 
-TeX            3 hrs 50 mins   ███████▓░░░░░░░░░░░░░░░░░   30.11 % 
-C++            3 hrs 15 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.62 % 
-OpenEdge ABL   1 hr            ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-Text           14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-```
-<!--END_SECTION:waka-->
+
 
 ## 📫 Como me encontrar: ...
 <p align="center">
