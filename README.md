@@ -50,9 +50,7 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 
 - Cursando 8 período do curso de Sistemas de informação na UNDB
 
-
-<details>
-	<h2><summary>🛠 Atualmente trabalhando ...  </summary></h2>
+- **🛠 Atualmente trabalhando ...** 
 
 - **CICD**
 <br/>
@@ -95,8 +93,7 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 <br/>
   <br/>
     <br/>
-    
-</details>
+
   
 ## 📚 Estudando ...
 - Shell Scripting   
@@ -120,7 +117,7 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 
 <!--## 📊 Alguns status ...-->
 <details>
-	<h2><summary> 📈 Meu Status GitHub </summary></h2>
+	<summary> 📈 Meu Status GitHub </summary>
 <h4 align="center">Github stats </h4>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=leoviana00&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
