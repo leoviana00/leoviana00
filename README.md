@@ -114,7 +114,9 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 - NS3 Network Security Associate - FORTINET
 <br/>
 
-## 📊 Alguns status ...
+<!--## 📊 Alguns status ...-->
+<details>
+<summary>📈 Meu Status GitHub</summary>
 <h4 align="center">Github stats </h4>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=leoviana00&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
@@ -125,6 +127,8 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 
 <h4 align="center">Visitantes :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{leoviana00}/count.svg" alt="leoviana00 :: Visitor's Count" /></p>
+
+</details>
 
 <h4 align="center">Como me encontrar 📫</h4>
 <p align="center">
