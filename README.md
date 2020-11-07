@@ -20,6 +20,11 @@ Here are some ideas to get you started:
 -->
 # Leonardo Viana 💻
 
+<div align="center">
+	<br>
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+</div>
+
 ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Olá Mundo!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
 
 Meu nome é Leonardo Viana, sou aluno do 8 período do cuso de Sistemas de Informação na <a href="http://sou.undb.edu.br/"><b>UNDB</b></a> 🎓.
