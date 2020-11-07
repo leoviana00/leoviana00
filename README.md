@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - 🎓 Student: ....
 - ⚡ Fun fact: ...
-- 📊 ... 🔑 ... 📈 ... 🤝🏻 ... 📝 ... 👨‍💻 ... ❓ ... 📜
-- 📈 ... 🔧 ... 🛠 ... 💻 ... 📅 ... 🎮 ... 🚫 ... 💼
+- 📊 ... 🔑 ... 📈 ... 🤝🏻 ... 📝 ... 👨‍💻 ... ❓ ... 📜 ... 💡 ... 🧠
+- 📈 ... 🔧 ... 🛠 ... 💻 ... 📅 ... 🎮 ... 🚫 ... 💼 ... ☕ ... 📚
 - :book:
 - :dart:
 -->
@@ -39,7 +39,18 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
  --> 
  
-## 🛠  Atualmente estou trabalhando em ...
+## Sobre mim ...
+
+- Filmes favoritos: Harry Potter, Star Wars e Senhor dos Anéis
+- Anime favorito: One Piece
+- Livro favorito: Fortaleza Digital
+- Banda favorita: Guns and Roses
+ 
+## 🎓 Graduação ...
+
+- Cursando 8 período do curso de SIstemas de informação na UNDB
+
+## 🛠  Trabalhando ...
 
 - **CICD**
 <br/>
@@ -83,7 +94,7 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
   <br/>
     <br/>
   
-## :book: Atualmente estou aprendendo ...
+## 📚 Estudando ...
 - Shell Scripting   
 - Kubernetes
 - JavaScript
