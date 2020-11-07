@@ -45,9 +45,6 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 - Livro favorito: Fortaleza Digital
 - Jogo favorito: Dota 2
 - Banda favorita: Guns and Roses
-- Comida favorita: Pizza
-- Bebida favorita: Nescau
-- Lugar favorito: Perto do mar
  
 ## 🎓 Graduação ...
 
