@@ -108,6 +108,13 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 <h4 align="center">Top linguagens :tongue:</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoviana00&langs_count=10&theme=tokyonight&layout=compact" alt="leoviana00 :: Top Langs" /></p>
 
+<!--START_SECTION:waka-->
+```text
+JavaScrip      1 hr 47 mins        ██████████░░░░░░░░░░░░░░░   39.80 % 
+HTML           1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   30.65 % 
+```
+<!--END_SECTION:waka-->
+
 <h4 align="center">Visitantes :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{leoviana00}/count.svg" alt="leoviana00 :: Visitor's Count" /></p>
 
