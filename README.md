@@ -50,7 +50,7 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 
 - Cursando 8 período do curso de Sistemas de informação na UNDB
 
-- **🛠 Atualmente trabalhando ...** 
+## 🛠 Atualmente trabalhando ...
 
 - **CICD**
 <br/>
