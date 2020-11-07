@@ -44,6 +44,7 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 - Filmes favoritos: Harry Potter, Star Wars e Senhor dos Anéis
 - Anime favorito: One Piece
 - Livro favorito: Fortaleza Digital
+- Jogo favorito: Dota 2
 - Banda favorita: Guns and Roses
 - Comida favorita: Pizza
 - Bebida favorita: Nescau
@@ -51,7 +52,7 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
  
 ## 🎓 Graduação ...
 
-- Cursando 8 período do curso de SIstemas de informação na UNDB
+- Cursando 8 período do curso de Sistemas de informação na UNDB
 
 ## 🛠  Trabalhando ...
 
