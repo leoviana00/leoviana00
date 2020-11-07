@@ -45,6 +45,9 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 - Anime favorito: One Piece
 - Livro favorito: Fortaleza Digital
 - Banda favorita: Guns and Roses
+- Comida favorita: Pizza
+- Bebida favorita: Nescau
+- Lugar favorito: Perto do mar
  
 ## 🎓 Graduação ...
 
