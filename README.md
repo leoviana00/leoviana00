@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🤝🏻 ...
 - :book:
 -->
-# Leonardo Viana :man_technologist: 
+# Leonardo Viana <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/powerup.gif?raw=1" width="20vw" />
 
 ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Olá Mundo!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
 
