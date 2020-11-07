@@ -92,16 +92,15 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 - **NS3 Network Security Associate - FORTINET**
 <br/>
 
-## Github Stats ...
+## Status GitHub ...
+<h2 align="center">Github stats :bar_chart:</h2>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=leoviana00&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
 </p>  
 
-## Top langs ...
 <h4 align="center">Top langs :tongue:</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoviana00&langs_count=10&theme=tokyonight&layout=compact" alt="leoviana00 :: Top Langs" /></p>
 
-## Visitas ...
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{leoviana00}/count.svg" alt="leoviana00 :: Visitor's Count" /></p>
 
