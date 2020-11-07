@@ -29,7 +29,7 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
  --> 
  
-## 🔭 Atualmente estou trabalhando em ...
+## 🛠  Atualmente estou trabalhando em ...
 
 - **CICD**
 <br/>
@@ -74,23 +74,23 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
     <br/>
   
 ## 🌱 Atualmente estou aprendendo ...
-- **Shell Scripting**   
-- **Kubernetes**
-- **JavaScript**
-- **Node Js**
-- **Java**
-- **RegEx**
+- Shell Scripting   
+- Kubernetes
+- JavaScript
+- Node Js
+- Java
+- RegEx
 
 ## ⚡ Minhas certificações ...
-- **Itil Fundation V3 - Exin**
-- **Cloud Fundation - Exin**
-- **ISO 20K Bridge - Exin**
-- **Scrum Fundation Professional Certificate (SFPC) - CertiProf**
-- **DevOps Essential Professional Certificate (DEPC) - CertiProf**
-- **Endpoint Security Associate - KASPERSKY**
-- **NS1 Network Security Associate - FORTINET**
-- **NS2 Network Security Associate - FORTINET**
-- **NS3 Network Security Associate - FORTINET**
+- Itil Fundation V3 - Exin
+- Cloud Fundation - Exin
+- ISO 20K Bridge - Exin
+- Scrum Fundation Professional Certificate (SFPC) - CertiProf
+- DevOps Essential Professional Certificate (DEPC) - CertiProf
+- Endpoint Security Associate - KASPERSKY
+- NS1 Network Security Associate - FORTINET
+- NS2 Network Security Associate - FORTINET
+- NS3 Network Security Associate - FORTINET
 <br/>
 
 ## :bar_chart: Alguns status ...
