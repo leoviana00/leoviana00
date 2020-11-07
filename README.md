@@ -39,7 +39,7 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
  --> 
  
-## Sobre mim ...
+## 💬 Sobre mim ...
 
 - Filmes favoritos: Harry Potter, Star Wars e Senhor dos Anéis
 - Anime favorito: One Piece
