@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # Leonardo Viana :man_technologist: 
 
-### <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Olá Mundo!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
+### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Olá Mundo!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
 
 Meu nome é Leonardo Viana, sou aluno do 8 período do cuso de Sistemas de Informação na <a href="http://sou.undb.edu.br/"><b>UNDB</b></a>.  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> 
 Em experiências passadas, eu participei de vários projetos que foram importantes para minha carreira. Como gerenciamento, fluxo e processos de serviços, projetos de infraestrutura local e em cloud com a AWS, utilização do Power Bi para gerenciar informações e apoiar tomadas de decisões. Atualmente estou atuando como analista DevOps na <a href="https://ithappens.gupy.io/"><b>PULSE</b></a>.  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px">, aprendendo e me aprofundando cada vez mais nessa área maravilhosa.
@@ -92,19 +92,19 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 - **NS3 Network Security Associate - FORTINET**
 <br/>
 
-## Status GitHub ...
+## Alguns status ...
 <h2 align="center">Github stats :bar_chart:</h2>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=leoviana00&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=leoviana00&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 </p>  
 
-<h4 align="center">Top langs :tongue:</h4>
+<h4 align="center">Top linguagens :tongue:</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoviana00&langs_count=10&theme=tokyonight&layout=compact" alt="leoviana00 :: Top Langs" /></p>
 
-<h4 align="center">Visitor's count :eyes:</h4>
+<h4 align="center">Visitantes :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{leoviana00}/count.svg" alt="leoviana00 :: Visitor's Count" /></p>
 
-## 📫 Como me encontrar: ...
+<h2 align="center">Como me encontrar 📫</h2>
 <p align="center">
  <a href="https://www.linkedin.com/in/leoviana00/" target="blank">
   <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> 
@@ -116,5 +116,5 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
   <br/>
   Obrigado 😁<br/>
 </p>
-<p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frajput2107%2F" /></p>
+
 
