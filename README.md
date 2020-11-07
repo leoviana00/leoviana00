@@ -50,7 +50,9 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 
 - Cursando 8 período do curso de Sistemas de informação na UNDB
 
-## 🛠  Trabalhando ...
+
+<details>
+<summary>🛠 Atualmente trabalhando ...</summary>
 
 - **CICD**
 <br/>
@@ -93,6 +95,8 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 <br/>
   <br/>
     <br/>
+    
+</details>
   
 ## 📚 Estudando ...
 - Shell Scripting   
