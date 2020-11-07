@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 - :book:
 - :dart:
 -->
-# <p alingn = "center"> Leonardo Viana 💻 </p>
+
+<h2 align="center"> Leonardo Viana 💻 </h2>
 
 <div align="center">
 	<br>
