@@ -52,7 +52,7 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 
 
 <details>
-	<summary><h2>🛠 Atualmente trabalhando ... </h2> </summary>
+	<h2><summary>🛠 Atualmente trabalhando ...  </summary></h2>
 
 - **CICD**
 <br/>
@@ -120,7 +120,7 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 
 <!--## 📊 Alguns status ...-->
 <details>
-	<summary> <h2>📈 Meu Status GitHub </h2></summary>
+	<h2><summary> 📈 Meu Status GitHub </summary></h2>
 <h4 align="center">Github stats </h4>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=leoviana00&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
