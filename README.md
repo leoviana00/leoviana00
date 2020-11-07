@@ -13,14 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - 🎓 Student: ....
 - ⚡ Fun fact: ...
-- 📊 ...
-- 📈 ...
-- 🔧 ...
-- 🛠 ...
-- 🤝🏻 ...
+- 📊 ... 🔑 ... 📈 ... 🤝🏻 ... 📝 ... 👨‍💻 ... ❓ ... 📜
+- 📈 ... 🔧 ... 🛠 ... 💻 ... 📅 ... 🎮 ... 🚫 ... 💼
 - :book:
+- :dart:
 -->
-# Leonardo Viana <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/powerup.gif?raw=1" width="20vw" />
+# Leonardo Viana 💻
 
 ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Olá Mundo!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
 
@@ -107,13 +105,6 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 
 <h4 align="center">Top linguagens :tongue:</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoviana00&langs_count=10&theme=tokyonight&layout=compact" alt="leoviana00 :: Top Langs" /></p>
-
-<!--START_SECTION:waka-->
-```text
-JavaScrip      1 hr 47 mins        ██████████░░░░░░░░░░░░░░░   39.80 % 
-HTML           1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   30.65 % 
-```
-<!--END_SECTION:waka-->
 
 <h4 align="center">Visitantes :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{leoviana00}/count.svg" alt="leoviana00 :: Visitor's Count" /></p>
