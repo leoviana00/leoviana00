@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # Leonardo Viana :man_technologist: 
 
-### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Olá Mundo!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
+### <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Olá Mundo!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
 
 Meu nome é Leonardo Viana, sou aluno do 8 período do cuso de Sistemas de Informação na <a href="http://sou.undb.edu.br/"><b>UNDB</b></a>.  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> 
 Em experiências passadas, eu participei de vários projetos que foram importantes para minha carreira. Como gerenciamento, fluxo e processos de serviços, projetos de infraestrutura local e em cloud com a AWS, utilização do Power Bi para gerenciar informações e apoiar tomadas de decisões. Atualmente estou atuando como analista DevOps na <a href="https://ithappens.gupy.io/"><b>PULSE</b></a>.  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px">, aprendendo e me aprofundando cada vez mais nessa área maravilhosa.
