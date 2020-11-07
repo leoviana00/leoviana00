@@ -123,7 +123,7 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
   <br/>
   <br/>
   
-  <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/powerup.gif?raw=1" width="20vw" /> Obrigado 😁<br/>
+  <p align="center"> Obrigado 😁<br/>
 </p>
 
 
