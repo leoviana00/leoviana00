@@ -107,7 +107,7 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 <h4 align="center">Visitantes :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{leoviana00}/count.svg" alt="leoviana00 :: Visitor's Count" /></p>
 
-<h2 align="center">Como me encontrar 📫</h2>
+<h4 align="center">Como me encontrar 📫</42>
 <p align="center">
  <a href="https://www.linkedin.com/in/leoviana00/" target="blank">
   <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> 
