@@ -13,8 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - 🎓 Student: ....
 - ⚡ Fun fact: ...
-- 📊
-- 📈
+- 📊 ...
+- 📈 ...
+- 🔧 ...
+- 🛠 ...
+- 🤝🏻 ...
+- :book:
 -->
 # Leonardo Viana :man_technologist: 
 
@@ -75,7 +79,7 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
   <br/>
     <br/>
   
-## 🌱 Atualmente estou aprendendo ...
+## :book: Atualmente estou aprendendo ...
 - Shell Scripting   
 - Kubernetes
 - JavaScript
@@ -107,17 +111,19 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 <h4 align="center">Visitantes :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{leoviana00}/count.svg" alt="leoviana00 :: Visitor's Count" /></p>
 
-<h4 align="center">Como me encontrar 📫</42>
+<h4 align="center">Como me encontrar 📫</h4>
 <p align="center">
  <a href="https://www.linkedin.com/in/leoviana00/" target="blank">
   <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> 
  </a>
+ 
  <a href="https://t.me/leoviana00" target="blank">
   <img align="center" alt="Pramod's Telegram" width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" /> 
  </a>
   <br/>
   <br/>
-  Obrigado 😁<br/>
+  
+  <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/powerup.gif?raw=1" width="20vw" /> Obrigado 😁<br/>
 </p>
 
 
