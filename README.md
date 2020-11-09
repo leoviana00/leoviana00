@@ -58,14 +58,9 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 |---|---|
     
 - **Provisionamento e configuração**
-<br/>
-<code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></a></code>
-<code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
-<code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a></code>
-<code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></a></code>
-<br/>
-  <br/>
-    <br/>
+
+| <img height="50" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></a> | <img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a> |  <img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a> | <img height="50" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></a> |
+|---|---|---|---|
   
 - **Monitoramento**
 <br/>
