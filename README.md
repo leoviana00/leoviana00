@@ -63,28 +63,21 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 |---|---|---|---|
   
 - **Monitoramento**
-<br/>
-<code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg"></a></code>
-<code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg"></a></code>
-<code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-ar21.svg"></a></code>
-<br/>
-  <br/>
-    <br/>
+
+| <img height="50" src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg"></a> | <img height="50" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg"></a> | <img height="50" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-ar21.svg"></a> |
+|---|---|---|
   
 - **Cloud**
-<br/>
-<code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/linode/linode-ar21.svg"></a></code>
-<code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
-<br/>
-  <br/>
-    <br/>
+| <img height="50" src="https://www.vectorlogo.zone/logos/linode/linode-ar21.svg"></a> | <img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a> |
+|---|---|
+
+    
   
 - **Relatórios**
-<br/>
-<code><a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></a></code>
-<br/>
-  <br/>
-    <br/>
+
+| <img height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></a> |
+|---|
+
 
   
 ## 📚 Estudando ...
