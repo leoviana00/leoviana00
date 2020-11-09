@@ -60,8 +60,7 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
   <br/>
     <br/>
     
-| <img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></a></code> |
-| <img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></a></code> |
+| [<img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></a></code>] | [<img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></a></code>] |
   
 - **Provisionamento e configuração**
 <br/>
