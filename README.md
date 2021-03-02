@@ -87,7 +87,7 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 - JavaScript
 - Node Js
 - Java
-- RegEx
+- Curso Full Cycle
 
 ## ⚡ Minhas certificações ...
 - Itil Fundation V3 - Exin
