@@ -48,7 +48,7 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
  
 ## 🎓 Graduação ...
 
-- Cursando 8 período do curso de Sistemas de informação na UNDB
+- Graduado - Bacharel em Sistemas de informação na UNDB
 
 ## 🛠 Atualmente trabalhando ...
 
