@@ -82,10 +82,10 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 
   
 ## 📚 Estudando no momento ...
-- Rocketseat - Ignite - Trilha Nodejs
-- Curso Full Cycle 2.0 (Desenvolvimento - Arquitetura - DevOps)
-- Kubedev (Kubernetes)
-- Open English - (Inglês)
+- Rocketseat - Ignite - `Trilha Nodejs`
+- Curso Full Cycle 2.0 - `(Desenvolvimento - Arquitetura - DevOps)`
+- Kubedev - `(Kubernetes)`
+- Open English - `(Inglês)`
 
 ## ⚡ Minhas certificações ...
 - Itil Fundation V3 - Exin
