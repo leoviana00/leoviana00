@@ -98,8 +98,6 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 - NS3 Network Security Associate - FORTINET
 <br/>
 
-![Snake animation](https://github.com/leoviana00/leoviana00/blob/output/github-contribution-grid-snake.svg)
-
 <!--## 📊 Alguns status 
 <details>
 	<!--## <summary> 📈 Meu Status GitHub </summary>...-->
