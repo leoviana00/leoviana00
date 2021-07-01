@@ -79,15 +79,12 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 | <img height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></a> |
 |---|
 
-
-  
+ 
 ## 📚 Estudando no momento ...
 - Rocketseat - Ignite - `Trilha Nodejs`
 - Curso Full Cycle 2.0 - `(Desenvolvimento - Arquitetura - DevOps)`
 - Kubedev - `(Kubernetes)`
 - Open English - `(Inglês)`
-
-![Snake animation](https://github.com/leoviana00/leoviana00/blob/output/github-contribution-grid-snake.svg)
 
 ## ⚡ Minhas certificações ...
 - Itil Fundation V3 - Exin
@@ -100,6 +97,8 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 - NS2 Network Security Associate - FORTINET
 - NS3 Network Security Associate - FORTINET
 <br/>
+
+![Snake animation](https://github.com/leoviana00/leoviana00/blob/output/github-contribution-grid-snake.svg)
 
 <!--## 📊 Alguns status 
 <details>
