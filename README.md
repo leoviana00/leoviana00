@@ -87,6 +87,8 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 - Kubedev - `(Kubernetes)`
 - Open English - `(Inglês)`
 
+![Snake animation](https://github.com/leoviana00/cleoviana00//blob/output/github-contribution-grid-snake.svg)
+
 ## ⚡ Minhas certificações ...
 - Itil Fundation V3 - Exin
 - Cloud Fundation - Exin
