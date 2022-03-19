@@ -83,6 +83,7 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 ## 📚 Estudando no momento ...
 - Curso Full Cycle 2.0 - `(Desenvolvimento - Arquitetura - DevOps)`
 - Kubedev - `(Kubernetes)`
+- TFTEC - (Azure)
 
 ## ⚡ Minhas certificações ...
 - Itil Fundation V3 - Exin
@@ -94,6 +95,7 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 - NS1 Network Security Associate - FORTINET
 - NS2 Network Security Associate - FORTINET
 - NS3 Network Security Associate - FORTINET
+- AZ 900 - MICROSOFT AZURE
 <br/>
 
 <!--## 📊 Alguns status 
