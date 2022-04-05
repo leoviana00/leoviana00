@@ -98,6 +98,8 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 - AZ 900 - MICROSOFT AZURE
 <br/>
 
+![Snake animation](https://github.com/leoviana00/leoviana00/blob/output/github-contribution-grid-snake.svg)
+
 <!--## 📊 Alguns status 
 <details>
 	<!--## <summary> 📈 Meu Status GitHub </summary>...-->
