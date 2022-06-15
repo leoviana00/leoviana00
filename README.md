@@ -83,7 +83,8 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 ## 📚 Estudando no momento ...
 - Curso Full Cycle 2.0 - `(Desenvolvimento - Arquitetura - DevOps)`
 - Kubedev - `(Kubernetes)`
-- TFTEC - (Azure)
+- TFTEC - (Azure) 104
+- Inglês - Open English
 
 ## ⚡ Minhas certificações ...
 - Itil Fundation V3 - Exin
@@ -96,6 +97,7 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 - NS2 Network Security Associate - FORTINET
 - NS3 Network Security Associate - FORTINET
 - AZ 900 - MICROSOFT AZURE
+- OCI Foundations 2021 Associate - OCI
 <br/>
 
 ![Snake animation](https://github.com/leoviana00/leoviana00/blob/output/github-contribution-grid-snake.svg)
