@@ -51,12 +51,14 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 - Graduado - Bacharel em Sistemas de informação na UNDB
 
 ## 🛠 Atualmente trabalhando ...
+
 - **Controle de versão**
-| <img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></a> |
+
+<img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></a> 
 
 - **Esteira**
 
-| <img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></a> |
+<img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></a> 
     
 - **Provisionamento e configuração**
 
