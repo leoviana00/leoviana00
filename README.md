@@ -96,8 +96,8 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 ## 📚 Estudando no momento ...
 - Curso Full Cycle 2.0 - `(Desenvolvimento - Arquitetura - DevOps)`
 - Kubedev - `(Kubernetes)`
-- TFTEC - (Azure) 104
-- Inglês - Open English
+- TFTEC - `(Azure) 104`
+- Inglês - `Open English`
 
 ## ⚡ Minhas certificações ...
 - Itil Fundation V3 - Exin
