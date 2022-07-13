@@ -64,8 +64,8 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
     
 - **Provisionamento e configuração**
 
-| <img height="50" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></a> | <img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a> |  <img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a> | <img height="50" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></a> |
-|---|---|---|---|
+| <img height="50" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></a> | <img height="50" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></a> |
+|---|---|
   
 - **Monitoramento**
 
@@ -77,6 +77,13 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 | <img height="50" src="https://www.vectorlogo.zone/logos/linode/linode-ar21.svg"></a> | <img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a> |
 |---|---|
 
+- **Containers**
+|<img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a> |
+|---|
+
+- **Orquestração de containers**
+| <img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a> |
+|---|
     
   
 - **Relatórios**
