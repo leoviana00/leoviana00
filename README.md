@@ -78,13 +78,14 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 |---|---|
 
 - **Containers**
-|<img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a> |
-|---|
+
+| <img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a> |
+|---|   
 
 - **Orquestração de containers**
+
 | <img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a> |
-|---|
-    
+|---|   
   
 - **Relatórios**
 
