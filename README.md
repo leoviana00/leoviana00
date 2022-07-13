@@ -74,8 +74,8 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
   
 - **Cloud**
 
-| <img height="50" src="https://www.vectorlogo.zone/logos/linode/linode-ar21.svg"></a> | <img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a> |
-|---|---|
+| <img height="50" src="https://www.vectorlogo.zone/logos/linode/linode-ar21.svg"></a> | <img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a> | <img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></a> |
+|---|---|---|
 
 - **Containers**
 
