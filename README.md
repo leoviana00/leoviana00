@@ -100,7 +100,7 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 - OCI Foundations 2021 Associate - OCI
 <br/>
 
-![Snake animation](https://github.com/leoviana00/leoviana00/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/leoviana00/leoviana00/blob/output/github-contribution-grid-snake.svg)-->
 
 <!--## 📊 Alguns status 
 <details>
