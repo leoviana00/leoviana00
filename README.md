@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <!-- ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Olá Mundo!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px"> -->
 
-Meu nome é Leonardo Viana, em experiências passadas participei de vários projetos que foram importantes para minha carreira. Como gerenciamento, fluxo e processos de serviços, projetos de infraestrutura local e em cloud com a AWS, utilização do Power Bi para gerenciar informações e apoiar tomadas de decisões. Atualmente estou atuando como analista DevOps na <a href="https://ithappens.gupy.io/"><b>PULSE</b></a>.  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px">, aprendendo e me aprofundando cada vez mais nessa área maravilhosa.
+Olá, muito prazer me chamo Leonardo Viana, em experiências passadas participei de vários projetos que foram importantes para minha carreira. Como gerenciamento, fluxo e processos de serviços, projetos de infraestrutura local e em cloud com a AWS, utilização do Power Bi para gerenciar informações e apoiar tomadas de decisões. Atualmente estou atuando como analista DevOps na <a href="https://ithappens.gupy.io/"><b>PULSE</b></a>.  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px">, aprendendo e me aprofundando cada vez mais nessa área maravilhosa.
 Moro em São Luis - MA. Em minhas horas vagas gosto de ler, assistir animes, ouvir música e passear com a família.
 Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 
@@ -44,7 +44,7 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 - Anime favorito: One Piece
 - Livro favorito: Fortaleza Digital
 - Jogo favorito: Dota 2
-- Banda favorita: Guns and Roses
+- Banda favorita: Guns and Roses / Racionais
  
 ## 🎓 Graduação ...
 
