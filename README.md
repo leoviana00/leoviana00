@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 
 <h2 align="center"> Leonardo Viana 💻 </h2>
 
-<div align="center">
+<!-- <div align="center">
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
-</div>
+</div> -->
 
 <!-- ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Olá Mundo!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px"> -->
 
@@ -38,7 +38,7 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
  --> 
  
-## 💬 Sobre mim ...
+<!-- ## 💬 Sobre mim ...
 
 - Filmes favoritos: Harry Potter, Star Wars e Senhor dos Anéis
 - Anime favorito: One Piece
@@ -97,7 +97,7 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 - Curso Full Cycle 2.0 - `(Desenvolvimento - Arquitetura - DevOps)`
 - Kubedev - `(Kubernetes)`
 - TFTEC - `(Azure) 104`
-- Inglês - `Open English`
+- Inglês - `Open English` -->
 
 ## ⚡ Minhas certificações ...
 - Itil Fundation V3 - Exin
