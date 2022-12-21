@@ -26,9 +26,6 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=leoviana00&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 </p>  
 
-<h4 align="center">Top linguagens :tongue:</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoviana00&langs_count=10&theme=tokyonight&layout=compact" alt="leoviana00 :: Top Langs" /></p>
-
 <h4 align="center">Visitantes :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{leoviana00}/count.svg" alt="leoviana00 :: Visitor's Count" /></p>
 
