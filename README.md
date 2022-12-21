@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - :dart:
 -->
 
-<h2 align="center"> Leonardo Viana 💻 </h2>
+<h2 align="left"> Leonardo Viana 💻 </h2>
 
 <div>
 	<br>
