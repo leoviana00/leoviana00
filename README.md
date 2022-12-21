@@ -32,18 +32,6 @@ Here are some ideas to get you started:
 
 <!--</details>...-->
 
-<p align="center">
- <a href="https://www.linkedin.com/in/leoviana00/" target="blank">
-  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> 
- </a>
- 
- <a href="https://t.me/leoviana00" target="blank">
-  <img align="center" alt="Pramod's Telegram" width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" /> 
- </a>
-  <br/>
-  <br/>
-  
-  <p align="center">😁<br/>
-</p>
+
 
 
