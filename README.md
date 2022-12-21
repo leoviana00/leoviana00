@@ -99,7 +99,7 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 - TFTEC - `(Azure) 104`
 - Inglês - `Open English` -->
 
-## ⚡ Minhas certificações ...
+<!-- ## ⚡ Minhas certificações ...
 - Itil Fundation V3 - Exin
 - Cloud Fundation - Exin
 - ISO 20K Bridge - Exin
@@ -112,7 +112,7 @@ Gosto de conversar, trocar ideias e experiências sobre tecnologias.
 - AZ 900 - MICROSOFT AZURE
 - OCI Foundations 2021 Associate - OCI
 <br/> -->
-
+ -->
 <!--![Snake animation](https://github.com/leoviana00/leoviana00/blob/output/github-contribution-grid-snake.svg)-->
 
 <!--## 📊 Alguns status 
