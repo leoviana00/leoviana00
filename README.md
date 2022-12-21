@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 <h2 align="center"> Leonardo Viana 💻 </h2>
 
 <div align="left">
-	<br>
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
 
 <p align="right">
