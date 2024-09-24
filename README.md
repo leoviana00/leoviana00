@@ -26,38 +26,37 @@
 </p>
 
 <br>
+
+<div align="center">
+	<code><img width="70" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></code>
+	<code><img width="70" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
+	<code><img width="70" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
+	<code><img width="70" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="GitLab" title="GitLab"/></code>
+	<code><img width="70" src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png" alt="Vim" title="Vim"/></code>
+	<code><img width="70" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
+	<code><img width="70" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" title="Jira"/></code>
+	<code><img width="70" src="https://user-images.githubusercontent.com/25181517/184146221-671413cb-b1ae-47db-a232-b37c99281516.png" alt="SonarQube" title="SonarQube"/></code>
+	<code><img width="70" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/></code>
+	<code><img width="70" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
+	<code><img width="70" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" title="Spring"/></code>
+	<code><img width="70" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/></code>
+	<code><img width="70" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" alt="Maven" title="Maven"/></code>
+	<code><img width="70" src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" alt="Hibernate" title="Hibernate"/></code>
+	<code><img width="70" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/50342602-8025-4030-b492-550f2eaa4073" alt="RabbitMQ" title="RabbitMQ"/></code>
+	<code><img width="70" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash"/></code>
+	<code><img width="70" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
+	<code><img width="70" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" alt="Kubernetes" title="Kubernetes"/></code>
+	<code><img width="70" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" alt="CI/CD" title="CI/CD"/></code>
+	<code><img width="70" src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png" alt="Jenkins" title="Jenkins"/></code>
+	<code><img width="70" src="https://user-images.githubusercontent.com/25181517/182534075-4962068b-4407-46c2-ac67-ddcb86af30cc.png" alt="Grafana" title="Grafana"/></code>
+	<code><img width="70" src="https://user-images.githubusercontent.com/25181517/182534182-c510199a-7a4d-4084-96e3-e3db2251bbce.png" alt="Prometheus" title="Prometheus"/></code>
+	<code><img width="70" src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png" alt="Terraform" title="Terraform"/></code>
+	<code><img width="70" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
+	<code><img width="70" src="https://user-images.githubusercontent.com/25181517/186884159-4b5e122b-95de-4a32-b10b-7f6fdffa4c5a.png" alt="Linux Mint" title="Linux Mint"/></code>
+  <code><img width="70" src="https://user-images.githubusercontent.com/51878265/206730962-b20f94c1-17af-48b2-b62c-b6c02dbeeb77.png" alt="Gitops" title="Gitops"/></code>
+	<code><img width="70" src="https://user-images.githubusercontent.com/51878265/205495495-b3f0b395-3ce3-42d8-9274-220ff10334f6.png" alt="Argo" title="Argo"/></code>
+</div>
   
-<p align="center">
-<img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" height="100" alt="github"> 
-<img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" height="100" alt="gitlab">
-<img src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" height="100" alt="cicd">
-<img src="https://user-images.githubusercontent.com/51878265/200594916-47ba8a4c-fb94-4953-b179-dfb542df9499.png" height="100" alt="docker"> 
-<img src="https://user-images.githubusercontent.com/51878265/200594367-f416d081-af8f-4f48-8008-998d005b317f.png" height="100" alt="Kubernetes">
-<img src="https://user-images.githubusercontent.com/51878265/209197882-51406a8f-04ff-4c53-a362-ac32ae8566ad.png" height="100" alt="linux"> 
-<img src="https://user-images.githubusercontent.com/51878265/202784470-2c813581-7160-4aaf-b96c-35187795d05b.png" height="100" alt="git"> 
-<img src="https://user-images.githubusercontent.com/51878265/202765143-55758916-b631-4c18-aaad-718b42507d67.png" height="100" alt="YAML">
-<img src="https://user-images.githubusercontent.com/51878265/202859249-b90ac510-d8e8-408d-9c07-0d2bd8e1b092.png" height="100" alt="Helm">
-<img src="https://user-images.githubusercontent.com/51878265/202859485-eba6809e-1cb8-4bbc-ab22-efa3c91d6463.png" height="100" alt="Prometheus">
-<img src="https://user-images.githubusercontent.com/25181517/182534075-4962068b-4407-46c2-ac67-ddcb86af30cc.png" height="100" alt="Grafana">
-<img src="https://user-images.githubusercontent.com/51878265/206730962-b20f94c1-17af-48b2-b62c-b6c02dbeeb77.png" height="100" alt="Gitops">
-<img src="https://user-images.githubusercontent.com/51878265/205495495-b3f0b395-3ce3-42d8-9274-220ff10334f6.png" height="100" alt="Argo">
-<img src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png" height="100" alt="Terraform">
-<img src="https://user-images.githubusercontent.com/51878265/209197795-570330e6-fbee-4bf3-a42e-b8609e3afc46.png" height="100" alt="Jenkins">
-<img src="https://user-images.githubusercontent.com/25181517/184146221-671413cb-b1ae-47db-a232-b37c99281516.png" height="100" alt="Sonarqube">
-<img src="https://user-images.githubusercontent.com/51878265/200594989-b1406680-ed41-478a-84d5-7c35b287e112.png" height="100" alt="Bash">
-<img src="https://user-images.githubusercontent.com/51878265/208243882-9c4f03fe-7aa3-4f42-84c4-ab90047e056b.png" height="100" alt="Lens">
-<img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" height="100" alt="Vscode">
-<img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" height="100" alt="Jira">
-<img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" height="100" alt="Java">
-<img src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" height="100" alt="Spring">
-<img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" height="100" alt="Spring Boot">
-<img src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" height="100" alt="Maven">
-<img src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" height="100" alt="Hibernate">
-<img src="" height="100" alt="">
-
-
-</p>  
-
 <br>
 
 ## 💡 My contributions
