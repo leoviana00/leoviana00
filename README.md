@@ -7,11 +7,13 @@
 
 ## 🚀 About me
 
-- Eternal learner, fascinated by the process of self-development, always seeking new strategies to learn and develop skills that can contribute to my professional and personal growth. With experience in the technology area in general with more than 15 years in early, intermediate and advanced stage companies and 4 years as DevOps in specific. Currently working as DevOps carrying out some activities such as development and management of CI/CD pipelines, management of project teams through Agile methodologies and incident support teams at Grupo Mateus, a large retailer operating in supermarkets, wholesale, real estate and household appliances, e-commerce and baking.
+- Eternal learner, fascinated by the process of self-discovery, always seeking new strategies to learn and develop skills that can contribute to my professional and professional growth. With 15 years of experience in the area of ​​technology in general, from assembling and maintaining computers to developing CI/CD pipelines, already with 4 years as **DevOps** at **Grupo Mateus**, a lot of experience in supermarkets, wholesale, real estate and household appliances, e-commerce and baking. Some of my activities include **developing and managing CI/CD pipelines**, **managing project teams with agile methodologies** and **incident support teams**.
 
-- Before Grupo Mateus, I worked as a Support Analyst, serving and providing technical support to customers, managing the Help Desk team and developing and managing processes and documentation at At Hand Tecnologia, a company focused on IT management, there I was introduced to technologies such as virtualization, vpc, cloud, Linux and Windows server management, networks, and others.
+- What distinguishes me from other IT professionals is my ability to communicate and move well between technical and non-technical environments, being able to integrate the two environments by distilling technical and complex concepts into a slightly simpler language. I believe that effective communication is key to delivering successful projects and working closely with stakeholders to ensure their needs are met throughout the development process.
 
-- Graduated in Information Systems from UNDB and some certifications such as Certified Kubernetes Administrator (CKA), ITIL and Scrum Foundation Professional Certificate (SFPC).
+- In addition to my technical skills, I am passionate about staying up to date and discovering new things. Committed to continuous learning and development, seeking to participate in communities, read articles, take courses and practical laboratories to expand my knowledge and skills.
+  
+- Graduated in Information Systems from UNDB and some certifications such as **Certified Kubernetes Administrator (CKA)**, **ITIL** and **Scrum Foundation Professional Certificate (SFPC)**.
 
 <br>
 
